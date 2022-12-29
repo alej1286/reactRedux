@@ -1,0 +1,19 @@
+{
+"users" :[
+{
+"id":1,
+"first_name": "Conrad",
+"last_name":"Laskey",
+"email":"asasa@sdsd.com",
+"password":"sdsddf"
+}
+],
+"products":[
+{
+"id":1,
+"name":"Bread",
+"price":452,
+"category":"Industrial"
+}
+]
+}
